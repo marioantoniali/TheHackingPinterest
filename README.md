@@ -2,14 +2,24 @@
 
 ## THE HACKING PINTEREST
 
-Des users, des pins et des comments tout ca avec du random and fake content tu vas kiffer ;)
+Des users, des pins et des comments tout ça avec du random and fake content tu vas kiffer ;)
+
+### Prérequis 
+
+* Ruby version 2.5.1
+
+* Rails version 5.2.0
 
 ## Mode d'emploi
 Déjà, clone ou fork my amazing repo! <br/>
-Ensuite dans ta console, va dans le dossier et lance les instructions suivantes :<br/>
+Ensuite dans ta console, vas dans le dossier et lance les instructions suivantes :<br/>
 <br/>
 * `bundle install`<br/>
 * `rails db:migrate`<br/>
 * `rails db:seed`
 <br/>
-Bon ca fonctionne c est cool mais tu peux utiliser ton DB Browser pour voir en direct la magieeee! ;-)
+Bon ça fonctionne, y a pas d'erreurs c'est cool mais tu peux aussi utiliser ton DB Browser ou autre logiciel qui visualise les DataBases pour voir en direct la magie opérer! ;-)
+
+### Contributeur
+
+Mario A.
